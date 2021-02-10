@@ -8,7 +8,7 @@ namespace LearningWindowsForms
 {
     static class Program
     {
-        /// <summary>
+        /// <summary>vvv
         /// The main entry point for the application.
         /// </summary>
         [STAThread]
@@ -19,4 +19,4 @@ namespace LearningWindowsForms
             Application.Run(new Form1());
         }
     }
-}
+}м
